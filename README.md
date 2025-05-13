@@ -4,4 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Business Analyst
 ----------------
 
-*   🌍  I'm based in Moscow
+Data Analyst | SQL, Python, Tableau | Transforming raw data into actionable insights.
+
+* 🌍  I'm based in Moscow
