@@ -11,7 +11,7 @@
   <a href="https://drive.google.com/file/d/1YXkhyRmSoypKul6syGy-ZKGEO8GhlwSJ/view?usp=sharing">
     <img src="https://img.shields.io/badge/CV-red?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV"/>
   </a>
-  <a href="https://t.me/swaymedolce">
+  <a href="https://t.me/lemesh75">
     <img src="https://img.shields.io/badge/Tg-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="CV"/>
   </a>
   <a href="https://www.kaggle.com/marialuchkova">
