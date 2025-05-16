@@ -14,7 +14,7 @@
   <a href="https://t.me/lemesh75">
     <img src="https://img.shields.io/badge/Tg-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="CV"/>
   </a>
-  <a href="https://www.kaggle.com/marialuchkova">
+  <a href="http://www.kaggle.com/dennyluckes">
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="CV"/>
   </a>
 </div>
