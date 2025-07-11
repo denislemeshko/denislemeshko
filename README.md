@@ -1,7 +1,7 @@
 # Denis Lemeshko
 :briefcase: Data Analyst 2024 - to present\
 :round_pushpin: Moscow
-## Junior Data Analyst
+## Data Analyst
  SQL, Excel, Python, Tableau | Transforming raw data into actionable insights.
 <br/><br/>
 <div id="badges">
