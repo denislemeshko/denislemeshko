@@ -43,7 +43,7 @@
 |[Определение наиболее выгодного региона нефтедобычи](https://github.com/DinkyPinky/Data-Science/tree/main/Yandex-Practicum-Projects/best-bore-location)|<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/Plotly-black?style=flat-square&logo=plotly&logoColor=orange"/>|
 |[Отток клиентов банка](https://github.com/DinkyPinky/Data-Science/tree/main/Yandex-Practicum-Projects/bank-churn-predictions) |<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/Sklearn-black?style=flat-square&logo=scikitlearn&logoColor=orange"/>|
 |[Оценка популярности игр](https://github.com/DinkyPinky/Data-Science/tree/main/Yandex-Practicum-Projects/games-rating-analysis) |<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/MatPlotlib-black?style=flat-square"/><img src="https://img.shields.io/badge/Plotly-black?style=flat-square&logo=plotly&logoColor=orange"/>||
-|[Определение рыночной стоимости квартир](https://github.com/DinkyPinky/Data-Science/tree/main/Yandex-Practicum-Projects/real-estate-market-analysis) |<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/MatPlotlib-black?style=flat-square"/>|  
+|[Определение рыночной стоимости квартир](https://github.com/denislemeshko/stepik/tree/main/real-estate-market-analysis) |<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/MatPlotlib-black?style=flat-square"/>|  
 
 ###  про работу:
 <div>
