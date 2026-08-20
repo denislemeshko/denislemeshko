@@ -43,9 +43,6 @@
 |[Оценка популярности игр](https://github.com/denislemeshko/stepik/blob/main/Games-Dashboard/game_git.ipynb) |<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/MatPlotlib-black?style=flat-square"/><img src="https://img.shields.io/badge/Plotly-black?style=flat-square&logo=plotly&logoColor=orange"/>||
 |[Определение рыночной стоимости квартир](https://github.com/denislemeshko/stepik/tree/main/real-estate-market-analysis) |<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/MatPlotlib-black?style=flat-square"/>|  
 
-###  про работу:
-<div>
-   
-  
-</div>
+
+
 
