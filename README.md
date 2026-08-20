@@ -32,7 +32,6 @@
 ###  Проекты:
 | Название | Инструменты |
 | :--------: | :-------: |
-|[Интерактивный дашборд](https://github.com/DinkyPinky/Data-Science/tree/main/Games-Dashboard) |<img src="https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5&logoColor=red"/><img src="https://img.shields.io/badge/Plotly-black?style=flat-square&logo=plotly&logoColor=blue"/>|
 |[SQL Retention rate](https://github.com/denislemeshko/stepik/tree/main/SQL) |<img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white"/>|
 |[SQL Работа с тренировочной базой данных по авиалиниям](https://github.com/denislemeshko/stepik/tree/main/SQL/Retention-rate) |<img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white"/>|
 |[Обработка фотографий покупателя](https://github.com/denislemeshko/stepik/tree/main/CV-customer-age-detection) |<img src="https://img.shields.io/badge/Keras-black?style=flat-square&logo=keras&logoColor=red"/><img src="https://img.shields.io/badge/Python-Blue?style=flat-square&logo=pythony&logoColor=yellow"/>|
