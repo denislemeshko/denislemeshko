@@ -32,7 +32,7 @@
 ###  Проекты:
 | Название | Инструменты |
 | :--------: | :-------: |
-|[SQL Retention rate](https://github.com/denislemeshko/stepik/tree/main/SQL) |<img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white"/>|
+|[SQL Retention rate](https://github.com/denislemeshko/stepik/tree/main/SQL/Retention-rate) |<img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white"/>|
 |[SQL Работа с тренировочной базой данных по авиалиниям](https://github.com/denislemeshko/stepik/tree/main/SQL/Retention-rate) |<img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white"/>|
 |[Обработка фотографий покупателя](https://github.com/denislemeshko/stepik/tree/main/CV-customer-age-detection) |<img src="https://img.shields.io/badge/Keras-black?style=flat-square&logo=keras&logoColor=red"/><img src="https://img.shields.io/badge/Python-Blue?style=flat-square&logo=pythony&logoColor=yellow"/>|
 |[Классификация токсичных комментариев](https://github.com/denislemeshko/stepik/tree/main/comments-classification) |<img src="https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy&logoColor=orange"/><img src="https://img.shields.io/badge/TQDM-black?style=flat-square&logo=tqdm&logoColor=orange"/>|
