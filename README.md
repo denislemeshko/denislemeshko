@@ -18,6 +18,7 @@
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="CV"/>
   </a>
 </div>
+<br/><br/>
 ## 🎓 Certificates
 
 <table>
