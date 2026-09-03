@@ -13,7 +13,7 @@ Would you be open to a brief chat or a small paid test task? Thank you!></em>
   <a href="https://www.linkedin.com/in/denny-luckes-a5ba6524b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="">
+  <a href="https://github.com/denislemeshko/denislemeshko/blob/main/CV_Lemeshko_MTS_Analyst%20(1).md">
     <img src="https://img.shields.io/badge/CV-red?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV"/>
   </a>
   <a href="https://t.me/lemesh75">
