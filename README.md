@@ -24,24 +24,25 @@
 <tr>
 <td align="center">
   <img src="sk1.png" width="180" height="130"><br>
-  <a href="CERTIFICATE_LINK_1">Certificate 1</a>
+  <a href="https://lab.karpov.courses/certificate/febc5c29-ced4-4284-8f2b-3409800890b1/en/">Certificate 1</a>
 </td>
 <td align="center">
   <img src="sk2.png" width="180" height="130"><br>
-  <a href="CERTIFICATE_LINK_2">Certificate 2</a>
+  <a href="https://lab.karpov.courses/certificate/92370f97-1bdc-4c86-a50c-c627a6310250/en/">Certificate 2</a>
 </td>
 <td align="center">
   <img src="pyt.png" width="180" height="130"><br>
-  <a href="CERTIFICATE_LINK_3">Certificate 3</a>
+  <a href="https://stepik.org/cert/3193025?lang=en">Certificate 3</a>
 </td>
 <td align="center">
   <img src="st.png" width="180" height="130"><br>
-  <a href="CERTIFICATE_LINK_4">Certificate 4</a>
+  <a href="https://stepik.org/cert/2837910?lang=en">Certificate 4</a>
 </td>
 <td align="center">
   <img src="sq.png" width="180" height="130"><br>
-  <a href="CERTIFICATE_LINK_5">Certificate 5</a>
+  <a href="https://stepik.org/cert/2805169?lang=en">Certificate 5</a>
 </td>
+
 </tr>
 </table>
 ###  Инструменты:
