@@ -23,23 +23,23 @@
 <table>
 <tr>
 <td align="center">
-  <img src="IMAGE_1.png" width="180" height="130"><br>
+  <img src="sk1.png" width="180" height="130"><br>
   <a href="CERTIFICATE_LINK_1">Certificate 1</a>
 </td>
 <td align="center">
-  <img src="IMAGE_2.png" width="180" height="130"><br>
+  <img src="sk2.png" width="180" height="130"><br>
   <a href="CERTIFICATE_LINK_2">Certificate 2</a>
 </td>
 <td align="center">
-  <img src="IMAGE_3.png" width="180" height="130"><br>
+  <img src="pyt.png" width="180" height="130"><br>
   <a href="CERTIFICATE_LINK_3">Certificate 3</a>
 </td>
 <td align="center">
-  <img src="IMAGE_4.png" width="180" height="130"><br>
+  <img src="st.png" width="180" height="130"><br>
   <a href="CERTIFICATE_LINK_4">Certificate 4</a>
 </td>
 <td align="center">
-  <img src="IMAGE_5.png" width="180" height="130"><br>
+  <img src="sq.png" width="180" height="130"><br>
   <a href="CERTIFICATE_LINK_5">Certificate 5</a>
 </td>
 </tr>
