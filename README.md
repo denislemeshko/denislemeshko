@@ -24,6 +24,16 @@ Would you be open to a brief chat or a small paid test task? Thank you!></em>
   </a>
 </div>
 <br/><br/>
+## Featured project: Sanctions Lab
+
+[**Sanctions Lab — sanctions and RUB exchange rates since 2014**](https://github.com/denislemeshko/sanctions-lab)
+
+An end-to-end research pipeline: **Python → PostgreSQL → Docker → Yandex DataLens**. Incremental exchange-rate updates from the Bank of Russia, source archiving, data checks, and descriptive event-window analysis.
+
+[![Sanctions Lab dashboard: exchange rates and event-window changes](https://raw.githubusercontent.com/denislemeshko/sanctions-lab/main/docs/images/datalens-dashboard.png)](https://github.com/denislemeshko/sanctions-lab)
+
+Work in progress: the sanctions calendar is a starter sample; observed exchange-rate changes are not estimates of causal effects.
+
 ## 🎓 Certificates
 
 <table>
