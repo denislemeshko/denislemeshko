@@ -74,6 +74,7 @@ Work in progress: the sanctions calendar is a starter sample; observed exchange-
 ###  Проекты:
 | Название | Инструменты |
 | :--------: | :-------: |
+| [Sanctions Lab — санкции и динамика рубля с 2014 года](https://github.com/denislemeshko/sanctions-lab) | ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker&logoColor=white) ![DataLens](https://img.shields.io/badge/Yandex_DataLens-yellow?style=flat-square) |
 |[SQL Retention rate](https://github.com/denislemeshko/stepik/tree/main/SQL/Retention-rate) |<img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white"/>|
 |[SQL Работа с тренировочной базой данных по авиалиниям](https://github.com/denislemeshko/stepik/tree/main/SQL/Airlines-database) |<img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white"/>|
 |[Обработка фотографий покупателя](https://github.com/denislemeshko/stepik/tree/main/CV-customer-age-detection) |<img src="https://img.shields.io/badge/Keras-black?style=flat-square&logo=keras&logoColor=red"/><img src="https://img.shields.io/badge/Python-Blue?style=flat-square&logo=pythony&logoColor=yellow"/>|
