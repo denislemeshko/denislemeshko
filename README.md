@@ -3,7 +3,7 @@
 :round_pushpin: Serbia
 <br/><br/>
 <em>
-I am looking for a part-time remote opportunity (1–2 hours per day / 10–14 hours per week). I am happy to start with a modest rate to prove my value and grow with the team. I also have a powerful local PC setup, so I can efficiently handle heavy data processing, large CSVs, or web scraping tasks that might slow down standard machines.
+I am looking for a remote opportunity. I am happy to start with a modest rate to prove my value and grow with the team. I also have a powerful local PC setup, so I can efficiently handle heavy data processing, large CSVs, or web scraping tasks that might slow down standard machines.
 I am particularly interested in teams with a relocant background (Cyprus, Georgia, Armenia) or companies open to future relocation. My English is B1, and I'm a native Russian speaker.
 Would you be open to a brief chat or a small paid test task? Thank you!></em>
 ## Data Analyst
